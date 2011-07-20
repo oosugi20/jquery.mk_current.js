@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+/*!
+ * Script Styles
+ * 
+ * Prefix rule "js-"
+ * 
+ */
+
+
+
+
+.js-mk_current {
+}
+
+
+.js-current {
+	background-color: #ffc;
+}
+
+.js-hasCurrent {
+	background-color: #fcc;
+}
+
+.js-hasCurrent .js-hasCurrent {
+	background-color: #cee;
+}
+
+.js-hasCurrent .js-hasCurrent .js-hasCurrent {
+	background-color: #cce;
+}
